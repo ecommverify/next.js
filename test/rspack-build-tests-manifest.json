@@ -2250,7 +2250,9 @@
     "runtimeError": false
   },
   "test/e2e/app-dir/cache-components/cache-components.console.test.ts": {
-    "passed": ["cache-components dims console calls during prospective rendering"],
+    "passed": [
+      "cache-components dims console calls during prospective rendering"
+    ],
     "failed": [],
     "pending": [],
     "flakey": [],
@@ -2285,7 +2287,9 @@
     "runtimeError": false
   },
   "test/e2e/app-dir/cache-components/cache-components.draft-mode.test.ts": {
-    "passed": ["cache-components should fully prerender pages that use draftMode"],
+    "passed": [
+      "cache-components should fully prerender pages that use draftMode"
+    ],
     "failed": [],
     "pending": [],
     "flakey": [],
