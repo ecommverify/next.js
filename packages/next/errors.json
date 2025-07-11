@@ -721,5 +721,12 @@
   "720": "A client prerender store should not be used for a route handler.",
   "721": "Render in Browser",
   "722": "Unable to match pathname to a dynamic route",
-  "723": "NAPI type conversion error in throwTurbopackInternalError"
+  "723": "NAPI type conversion error in throwTurbopackInternalError",
+  "724": "cacheLife() is only available with the experimental.cacheComponents config.",
+  "725": "cacheTag() is only available with the experimental.cacheComponents config.",
+  "726": "experimental.cacheComponents",
+  "727": "Route %s couldn't be rendered statically because it used IO that was not cached. See more info here: https://nextjs.org/docs/messages/cache-components",
+  "728": "CacheSignal cannot be used in the edge runtime, because `cacheComponents` does not support it.",
+  "729": "\\`experimental.ppr\\` can not be \\`%s\\` when \\`experimental.cacheComponents\\` is \\`true\\`. PPR is implicitly enabled when Cache Components is enabled.",
+  "730": "Dynamic imports should not be instrumented in the edge runtime, because `cacheComponents` doesn't support it"
 }
